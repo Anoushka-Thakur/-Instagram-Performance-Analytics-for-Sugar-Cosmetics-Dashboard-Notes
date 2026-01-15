@@ -89,8 +89,7 @@ This indicates strong organic brand affinity.
 ---
 ## 🔗 Live Tableau Dashboard
 👉 View the interactive dashboard on Tableau Public:  
-Instagram Performance Analytics for Sugar Cosmetics- Dashboard
-
+https://public.tableau.com/views/Sugarcosmeticsinstagramperformanceanalysis/EngagementPerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 ## 💡 Strategic Recommendations
 
